@@ -88,7 +88,6 @@ font-weight: bold;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   border-radius: 5px; 
   margin-bottom: 10px;
-  width: 1000px;
 }
 
 .info{
@@ -104,6 +103,7 @@ font-weight: bold;
   display: grid;
   grid-template-columns: 370px;
   margin-left: 20px;
+  width: 1000px;
 }
 
 .uam{
