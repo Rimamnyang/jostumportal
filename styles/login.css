@@ -88,6 +88,7 @@ font-weight: bold;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   border-radius: 5px; 
   margin-bottom: 10px;
+  width: 1000px
 }
 
 .info{
