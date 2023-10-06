@@ -90,6 +90,12 @@ font-weight: bold;
   margin-bottom: 10px;
 }
 
+@media(max-width:600px){
+.general-details{
+  width:600px;
+}
+}
+  
 .info{
  display: flex;
  background-color: rgb(24, 185, 185);
