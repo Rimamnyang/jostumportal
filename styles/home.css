@@ -2,9 +2,10 @@ body{
   margin: 0;
   padding: 78px 0 0 0 ;
   position: relative;
+  width:100%;
 }
 
-@media(max-width:700px){
+@media (max-width:700px){
 body{
   width:700px;
 }
